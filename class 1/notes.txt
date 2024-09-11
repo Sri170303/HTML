@@ -1,0 +1,81 @@
+HTML stands for Hyper Text Markup Language
+HTML is not a programming language. It is a Markup Language.
+It uses tags as annotations to markup content.
+
+Hyper Text are more than just normal text. They can be linked to other web page.
+
+HTML is used to create a basic building block of a web page. We link CSS to a HTML page for styling. JS is added for adding functionality.
+Using HTML we can add text, image, audio, video, links, etc to a web page.
+Browser renders a html file into a web page. 
+
+HTML + CSS + JS -> Web App
+
+Tags are annotations to markup content. Browser uses tags to know the type of content it has to render.
+
+An HTML element contains - opening tag, closing tag, content and attributes inside opening tag.
+
+Tags are not case-sensitive.
+
+HTML document can be opened in 2 ways - Text Editor and Browser
+
+
+Type of Elements in HTML - Block or Inline
+Block Elements - Occupy the entire screen width by default
+Inline ELements - Occupy only a part of screen width.
+
+Block Elements - headings, paragraphs, lists, article, section, etc
+Inline ELements - anchors, emphasis, strong, bold, etc
+
+
+headings are created using 
+<h1></h1>
+<h2></h2>
+<h3></h3>
+<h4></h4>
+<h5></h5>
+<h6></h6>
+
+paragraphs are created using
+<p></p>
+
+divisions with unique id are created using
+<div id=""></div>
+
+Empty tags are self-closing tags. They do not have any content.
+<br> - line break
+<img src=""> - image
+<hr> - horizontal rule
+
+MDN docs and W3Schools have really good content for web development.
+
+We can create three type of lists in HTML
+Ordered lists
+Unordered lists
+Description lists
+
+Attributes for an element is added in the opening tag.
+id and class can be added to any HTML element
+There are attributes which can be added to some specific tags only like href can be added to anchor tag only.
+
+Hyperlinks are added using anchor tag
+<a href=""></a>
+
+Image elements have attributes like src, alt, height, width, etc.
+
+Emmet Shortcut to create a broiler plate for an HTML page.
+
+<!DOCTYPE HTML> - Tells the browser that an HTML doc is to rendered
+
+html tag is the root of out HTML page.
+
+lang attribute in html tag tells browser that language used for page is ENGLISH
+
+head tag contains meta data related to our page like title, favicon, charset used, link to style sheet, description, viewport information, etc.
+These data are added using meta tags. 
+
+Meta data is basically data about data. Meta data is not displayed on the page.
+
+
+
+
+
