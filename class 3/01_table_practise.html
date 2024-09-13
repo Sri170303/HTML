@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table Practise</title>
+    <style>
+        table, th, td {
+            border: 2px solid black;
+            border-collapse: collapse;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <!-- Learning Tables -->
+     <table>
+        <tr>
+            <th>Month</th>
+            <th>Savings</th>
+        </tr>
+        <tr>
+            <td>Jan</td>
+            <td>4000</td>
+        </tr>
+        <tr>
+            <td>Feb</td>
+            <td>3000</td>
+        </tr>
+        <tr>
+            <td>Mar</td>
+            <td>4000</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>11000</td>
+        </tr>
+        <caption>
+            First-Quarter Savings
+        </caption>
+     </table>
+     <br>
+    <!-- rowspan and colspan -->
+     <table>
+        <colgroup>
+            <col span="" style="background-color: aqua;">
+            <!-- <col span="" style="background-color: aqua; visibility: collapse;"> -->
+            <col span="3" style="background-color: burlywood;">
+        </colgroup>
+        <tr>
+            <th rowspan="3">Day</th>
+            <th colspan="3">Seminar</th>
+        </tr>
+        
+        <tr>
+            <th colspan="2">Schedule</th>
+            <th rowspan="2">Topic</th>
+        </tr>
+        
+        <tr>
+            <td>Begin</td>
+            <td>End</td>
+        </tr>
+        
+        <tr>
+            <td rowspan="2">Monday</td>
+            <td rowspan="2">8:00 p.m.</td>
+            <td rowspan="2">5:00 p.m.</td>
+            <td>Introduction to XML</td>
+        </tr>
+        
+        <tr>
+            <td>Validity: DTD and Relax NG</td>
+        </tr>
+        
+        <tr>
+            <td rowspan="3">Tuesday</td>
+            <td>8:00 a.m.</td>
+            <td>11:00 a.m.</td>
+            <td>XPath</td>
+        </tr>
+         
+        <tr>
+            <td>11:00 a.m.</td>
+            <td>2:00 p.m.</td>
+            <td rowspan="2">XSL Transformations</td>
+        </tr>
+        
+        <tr>
+            <td>2:00 p.m.</td>
+            <td>5:00 p.m.</td>
+            
+        </tr>
+        <tr>
+            <td>Wednesday</td>
+            <td>8:00 a.m.</td>
+            <td>12:00 p.m.</td>
+            <td>XSL Formatting Objects</td>
+        </tr>
+     </table> 
+     <br>
+
+    <!-- rowspan and colspan practise -->
+     <table>
+        <tr>
+            <td>Team</td>
+            <td>Player</td>
+            <td colspan="2">Statistics</td>
+        </tr>
+        <tr>
+            <td rowspan="2">Team A</td>
+            <td>Player 1</td>
+            <td>Goals: 4</td>
+            <td>Assists: 7</td>
+        </tr>
+        <tr>
+            <td>Player 2</td>
+            <td>Goals: 6</td>
+            <td>Assists: 5</td>
+        </tr>
+        <tr>
+            <td rowspan="2">Team B</td>
+            <td>Player 3</td>
+            <td>Goals: 5</td>
+            <td>Assists: 6</td>
+        </tr>
+        <tr>
+            <td>Player 4</td>
+            <td>Goals: 3</td>
+            <td>Assists: 8</td>
+        </tr>
+     </table>
+     <!--  -->
+</body>
+</html>
