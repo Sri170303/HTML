@@ -1,0 +1,3 @@
+div is generic container for elements
+
+there are other container tags -> span, header, main, section, footer, aside

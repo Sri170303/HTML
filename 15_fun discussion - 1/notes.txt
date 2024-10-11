@@ -1,0 +1,6 @@
+VS Code is built using javascript framework named ELectron
+
+Live Server injects javascript in our html document when we click on option for open with live server
+
+Inline vs Block elements
+

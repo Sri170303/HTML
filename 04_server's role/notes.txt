@@ -1,0 +1,3 @@
+Server - Apache, Tomcat, NGINX
+
+When we make web request, server for that url serves us index.html file by default

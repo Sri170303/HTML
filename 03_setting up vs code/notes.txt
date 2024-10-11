@@ -1,0 +1,6 @@
+Code Editor -> VS Code
+
+Change settings -> Auto Save
+
+Extensions -> Live Server, Prettier
+

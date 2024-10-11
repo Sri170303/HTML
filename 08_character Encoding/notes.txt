@@ -1,0 +1,13 @@
+Character encoding techniques are methods used to represent text in computers and other devices. Here are some of the most common techniques:
+
+ASCII (American Standard Code for Information Interchange):
+    Uses 7 bits to represent 128 characters, including English letters, digits, and control characters.
+    Extended ASCII uses 8 bits to include additional characters.
+
+UTF-8:
+    A variable-length encoding that can use 1 to 4 bytes for each character.
+    Compatible with ASCII for the first 128 characters but can represent all Unicode characters, making it widely used on the web.
+
+UTF-16:
+    Uses 2 or 4 bytes per character.
+    Commonly used in environments like Windows and Java.
