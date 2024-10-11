@@ -1,0 +1,6 @@
+href attribute can be used to
+    add hyperlink to text
+    add link to default email client software
+    add link to default calling app
+
+use emmet to for shorcuts

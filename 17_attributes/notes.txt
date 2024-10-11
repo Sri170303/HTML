@@ -1,0 +1,9 @@
+elements have attributes to change their properties
+
+some attributes are global attributes while other are tag specific
+
+id, class, style are frequently used global attributes
+
+href is an attribute specificly used with anchor tag
+
+attributes can have multiple values

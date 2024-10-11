@@ -1,0 +1,3 @@
+tags like b, strong, em, i, u, sub, sup are used for selecting text format
+
+some tags like strong and em are used by search engines to display urls on internet

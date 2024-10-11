@@ -1,0 +1,10 @@
+Emmet gives us shortcut for wrting html Code
+
+Shorcuts are there to
+    create html elements
+    create nested elements
+    create elements with specific id and class
+    create sibling elements
+    create multiple copies of same elements
+    add text in an element
+    create an element with particular attribute value
