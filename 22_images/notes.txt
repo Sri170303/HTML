@@ -1,0 +1,1 @@
+image formats -> jpg, jpeg, png, webp, svg

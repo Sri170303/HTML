@@ -1,0 +1,6 @@
+html 5 added semantic tags and new javascript APIs
+
+semantic tags are better and should be used whenever possible
+
+we still have option for using div with id to create containers
+
