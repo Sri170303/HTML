@@ -1,0 +1,5 @@
+search engines use web crawlers that analyze contents of a web page
+
+using the content in pages they ranked when a search query is made on google
+
+Below resource is good: https://developers.google.com/search/docs/fundamentals/seo-starter-guide#:~:text=SEO%E2%80%94short%20for%20search%20engine,site%20through%20a%20search%20engine.
