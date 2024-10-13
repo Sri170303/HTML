@@ -1,0 +1,39 @@
+There are different formats for image files. 
+.jpg or .jpeg
+.png
+.webp
+.svg
+.gif
+The choice of format depends on the what is prioritized - quality, transfer time(size) over the network, hardware, etc.
+
+JPEG
+    Scenario: You’re uploading a photo to a social media platform or website.
+    Reason: JPEG’s lossy compression allows for a balance between image quality and file size, making it ideal for web and social media where quick loading times are essential.
+
+PNG
+    Scenario: You’re designing a website and need a logo with a transparent background.
+    Reason: PNG supports transparency and lossless compression, ensuring that your logo maintains high quality and blends seamlessly with different backgrounds.
+
+GIF
+    Scenario: You’re creating a simple, looping animation for an online advertisement.
+    Reason: GIF is great for small, animated images due to its support for animation and simple color palette. It’s useful for short, repeating animations like banners or social media memes.
+
+TIFF
+    Scenario: You’re working on high-resolution scans of artwork for a gallery exhibition.
+    Reason: TIFF supports high-quality, lossless compression and high bit depths, making it suitable for preserving every detail and color nuance in professional and archival settings.
+
+BMP
+    Scenario: You’re developing a Windows application and need raw, uncompressed image data for an internal tool.
+    Reason: BMP files store image data in an uncompressed format, making it straightforward to work with at the cost of larger file sizes. This can be useful for applications where image quality is paramount and storage space is less of a concern.
+
+HEIF
+    Scenario: You’re using a smartphone to capture high-quality photos and want to save storage space.
+    Reason: HEIF provides efficient compression while retaining high image quality, making it ideal for modern photography on mobile devices where file size management is important.
+
+WEBP
+    Scenario: You’re optimizing images for a website to ensure fast load times without compromising visual quality.
+    Reason: WEBP offers superior compression compared to JPEG and PNG, making it ideal for web use where fast loading times are crucial, and you want to maintain high visual fidelity.
+
+SVG
+    Scenario: You’re creating an icon set for a responsive web design project.
+    Reason: SVG images can scale to any size without losing quality, making them perfect for icons and graphics that need to look sharp on various screen sizes and resolutions.
